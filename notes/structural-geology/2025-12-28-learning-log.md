@@ -15,4 +15,4 @@ Geologi struktur kurang lebih adalah ilmu yang mempelajari struktur fitur geolog
 - Pendalaman mengenai analisa struktur
 
 ## Sumber
-- (2010) Structural Geology — Haakon Fossen
+- (2010) Structural Geology — Haakon Fossen (pp 1—9)
