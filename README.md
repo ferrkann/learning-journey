@@ -23,7 +23,7 @@ This repo is a documentation of how my understanding evolves over time.
 - `notes/`  
   Daily/weekly learning logs (chronological).  
 - `topics/`  
-  Topic-based pages that I update over time (the “clean” version).  
+  Topic-based pages that I update over time (the clean version).  
 - `projects/`  
   Mini projects, simulations, notebooks, and experiments.  
 - `assets/`  
