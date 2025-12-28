@@ -1,6 +1,6 @@
 # Learning Journey
 
-A public log of my self-learning journey across engineering, energy, geoscience, and data—based on books, papers, courses, and videos.  
+A public log of my self-learning journey across engineering, energy, geoscience, and data-based on books, papers, courses, and videos.  
 This repo is a documentation of how my understanding evolves over time.
 
 **Quick TL;DR (ID):** Repo ini berisi catatan belajar, ringkasan konsep dengan bahasa sendiri, pertanyaan yang belum terjawab, dan mini-output (diagram, hitungan kecil, atau kode ringan).
