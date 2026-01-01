@@ -3,7 +3,7 @@
 This folder contains my **chronological learning logs**.  
 Each entry captures what I studied that day (from books, papers, courses, or videos), what I understood, and what I still need to clarify.
 
-**TL;DR (ID):** Ini adalah catatan belajar harian/mingguan: ringkas, jujur soal yang belum paham, dan fokus pada progres.
+**TL;DR (ID):** Ini adalah catatan belajar harian/mingguan: ringkas dan fokus pada progres.
 
 ---
 
