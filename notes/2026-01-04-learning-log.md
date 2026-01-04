@@ -1,4 +1,4 @@
-# 2026-01-02 — Igneous and Metamorphic Petrology
+# 2026-01-04 — Igneous and Metamorphic Petrology
 
 ## Apa yang aku pelajari
 - Asal mula terbentuknya planet dan Tata Surya
